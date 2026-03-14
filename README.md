@@ -1,34 +1,40 @@
-<h1 align="center">Hi 👋, I'm Dhanraj Kumar</h1>
-<h3 align="center">Full Stack Developer | Problem Solver | DSA Enthusiast</h3>
+# Hi 👋 I'm Dhanraj Kumar
+
+🎓 B.Tech Computer Science Student  
+🤖 Interested in Machine Learning & Data Science  
+💻 Full-Stack Web Developer  
 
 ---
 
-### 🚀 About Me
-- 🌱 Currently learning **Data Structures & Algorithms**
-- 💻 Building **Full Stack Web Applications**
-- 🔭 Working on **Resume Analyzer (SkillSynq)**
-- 📫 Reach me: dhanrajkr924@gmail.com
+## 🚀 Skills
+
+- Python
+- Machine Learning
+- Data Science
+- JavaScript
+- React
+- SQL
 
 ---
 
-### 🛠 Tech Stack
-- Languages: C++, JavaScript, Python
-- Frontend: React.js, HTML, CSS, Tailwind
-- Backend: Node.js, Express.js
-- Database: MongoDB
+## 📌 Featured Projects
+
+🔹 Resume Analyzer (NLP)  
+Analyzes resumes and job descriptions using TF-IDF and cosine similarity.
+
+🔹 Weather App  
+Real-time weather application using API.
+
+🔹 Full Stack Web Projects  
 
 ---
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dhanraj84&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+![Dhanraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dhanraj84&show_icons=true)
 
 ---
 
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=Dhanraj84)
+## 🌐 Connect with Me
 
----
-
-### 🌐 Connect With Me
-[LinkedIn]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/dhanraj8409/))
-
+LinkedIn: https://linkedin.com/in/dhanraj8409
