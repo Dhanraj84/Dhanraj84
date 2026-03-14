@@ -1,50 +1,70 @@
-<h1 align="center">Hi 👋, I'm Dhanraj Kumar</h1>
-<h3 align="center">Aspiring Machine Learning & Data Science Engineer | Full-Stack Developer</h3>
+<h1 align="center">
+Hi 👋 I'm Dhanraj Kumar
+</h1>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
-
-- 🎓 B.Tech Computer Science Student
-- 🤖 Interested in **Machine Learning & Data Science**
-- 💻 Full Stack Web Developer
-- 🌱 Currently learning **Deep Learning & Advanced ML**
-- 📫 Reach me at **your-email@gmail.com**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;Data+Science+Enthusiast;Full+Stack+Web+Developer;AI+%26+ML+Explorer&center=true&width=500&height=50">
+</p>
 
 ---
 
-## 🌐 Connect with me
+## 🚀 About Me
+
+🎓 B.Tech Computer Science Student  
+🤖 Passionate about **Machine Learning & Data Science**  
+💻 Full Stack Web Developer  
+🌱 Currently learning **Advanced ML & AI Systems**
+
+---
+
+## 🌐 Connect With Me
 
 <p align="left">
 <a href="https://linkedin.com/in/dhanraj8409" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 </p>
 
 ---
 
-## 🛠 Languages and Tools
+## 🛠 Tech Stack
 
-<p align="left"> 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,html,css,git,github,mysql" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,html,css,nodejs,git,github,mysql" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-🔹 **Resume Analyzer (NLP Project)**  
+### ⚡ InfraCharge
+Smart EV charging infrastructure project.
+
+Tech Stack:
+- IoT
+- Web Dashboard
+- Real-time monitoring
+
+---
+
+### 🤖 Resume Analyzer (NLP)
 Analyzes resumes and job descriptions using TF-IDF and cosine similarity.
 
-🔹 **Weather App**  
-Real-time weather application using APIs.
+---
 
-🔹 **Full Stack Web Apps**
+### 🌦 Weather App
+Real-time weather application using APIs.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Dhanraj84&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dhanraj84&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanraj84&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -57,10 +77,18 @@ Real-time weather application using APIs.
 
 ---
 
-## 📈 Top Languages
+## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanraj84&layout=compact&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Dhanraj84&theme=tokyonight"/>
+</p>
+
+---
+
+## 👀 Profile Visitors
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Dhanraj84&label=Profile%20views&color=blue&style=flat"/>
 </p>
 
 ---
